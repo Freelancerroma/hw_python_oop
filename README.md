@@ -28,5 +28,3 @@ pip install -r requirements.txt
 python homework.py
 ```
 ***
-### Инструменты и стек:
-- Python
